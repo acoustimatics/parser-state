@@ -1,0 +1,12 @@
+[package]
+name = "parser-state"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.80.0"
+license-file="LICENSE"
+description="A small Rust library for building hand-rolled parsers"
+repository="https://github.com/acoustimatics/parser-state"
+readme="README.md"
+
+[dependencies]
+anyhow = "1.0.68"
